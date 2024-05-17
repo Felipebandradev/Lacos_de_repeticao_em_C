@@ -84,7 +84,7 @@
 - 3 - Depósito
 - 4 - Sair
 
-> **Observações**
+> **Observações:**
 >
 > - O valor inicial do saldo é zero.
 > - Quando o usuário digitar a opção 1, devemos imprimir o valor do saldo
